@@ -32,11 +32,11 @@ All images, HTML, and styling are embedded within the GitHub Pages site itself.
 ---
 
 ## 🧰 Tools & Technologies
-- **Hardware:** Raspberry Pi 5 (4 GB RAM) + external SSD  
+- **Hardware:** Raspberry Pi 5 (8 GB RAM)
 - **OS:** Raspberry Pi OS Bookworm (64-bit Lite)  
-- **DNS Software:** BIND9 / Pi-hole  
-- **Shell & Automation:** Bash + cron  
-- **Networking Tools:** `ping`, `dig`, `nslookup`, `ss`, `ufw`  
+- **DNS Software:** DNSMasq / BIND9
+- **Shell & Administration:** Bash + apt + nano + NetworkManager + systemctl + service
+- **Networking Tools:** `ping`, `dig`, `nslookup`, `nmcli`, `ip a` `hostname -I` 
 - **Version Control:** Git + GitHub for documentation  
 
 ---
