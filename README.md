@@ -13,8 +13,8 @@ The goal: show how a small, low-cost device can provide critical infrastructure 
 - Convert a Raspberry Pi 5 into a DNS server using either **DNSMasq** and **BIND9**.  
 - Step-by-step walkthroughs on setting up both DNS software packages on Raspberry Pi OS.  
 - Demonstrate proper **static IP configuration** and **DNS forwarding**.  
-- Working with tools such as apt package manager, systemctl, nano, nmcli, and more
-- Verification of domain name resolution
+- Working with tools such as apt package manager, systemctl, nano, nmcli, and more.
+- Verification of domain name resolution.
 
 
 ---
