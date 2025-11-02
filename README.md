@@ -19,6 +19,18 @@ The goal: show how a small, low-cost device can provide critical infrastructure 
 
 ---
 
+🖥️ **Live Project Webpage:**  
+👉 [Raspberry Pi 5 DNS Server Lab](https://mark-thompson01.github.io/MTPortfolio/Skills/Raspberry%20Pi%205%20DNS%20Server%20Lab/)
+
+---
+
+📂 **Hosted on GitHub Pages:**  
+All images, HTML, and styling are embedded within the GitHub Pages site itself.
+
+
+
+---
+
 ## 🧰 Tools & Technologies
 - **Hardware:** Raspberry Pi 5 (4 GB RAM) + external SSD  
 - **OS:** Raspberry Pi OS Bookworm (64-bit Lite)  
@@ -29,7 +41,14 @@ The goal: show how a small, low-cost device can provide critical infrastructure 
 
 ---
 
-## ⚙️ Setup Steps
-1. **Update Packages**
-   ```bash
-   sudo apt update && sudo apt upgrade -y
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+
+##
+
+📄 **License**  
+This content is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
