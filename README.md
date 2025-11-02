@@ -10,12 +10,12 @@ The goal: show how a small, low-cost device can provide critical infrastructure 
 ---
 
 ## 🎯 Objectives
-- Convert a Raspberry Pi 5 into a DNS server using either **BIND9** or **Pi-hole**.  
-- Run DNS services **alongside existing automation scripts and cron jobs**.  
+- Convert a Raspberry Pi 5 into a DNS server using either **DNSMasq** and **BIND9**.  
+- Step-by-step walkthroughs on setting up both DNS software packages on Raspberry Pi OS.  
 - Demonstrate proper **static IP configuration** and **DNS forwarding**.  
-- Apply **security best practices** (firewall, SSH hardening, limited query access).  
-- Verify name resolution from multiple client systems.  
-- Document the full process for professional demonstration.
+- Working with tools such as apt package manager, systemctl, nano, nmcli, and more
+- Verification of domain name resolution
+
 
 ---
 
