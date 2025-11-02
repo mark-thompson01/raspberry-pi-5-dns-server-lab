@@ -3,7 +3,7 @@
 
 ## 🧩 Overview
 This lab demonstrates how I configured a **Raspberry Pi 5** as a functional **DNS server** within my home-lab subnet.  
-It showcases core **System Administration** and **Networking** skills, including static IP configuration, DNS service management, Linux hardening, and automation using Bash and cron.
+It showcases core **System Administration** and **Networking** skills, including static IP configuration, DNS service management, and hands-on command-line walkthroughs in the Pi OS terminal. 
 
 The goal: show how a small, low-cost device can provide critical infrastructure services reliably and securely.
 
