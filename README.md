@@ -42,13 +42,13 @@ All images, HTML, and styling are embedded within the GitHub Pages site itself.
 ---
 
 🧠 What I Learned
-- How to setup and configure a DNS server on a Raspberry Pi 5 with DNSMasq and BIND9
-- How DNSMasq is lightweight and perfect for SOHO networks
-- How BIND9 is geared more for larger enterprise networks, with more granular administration
-- How to manually setup a forward and reverse lookup zone
-- How to properly edit .conf files with intended specifications
-- How to utilize new tools such as nmcli to discover what connection profile maps to what interface
-- Using nmcli to discover, verify, and make modifications to existing connection profiles
+- How to setup and configure a DNS server on a Raspberry Pi 5 with DNSMasq and BIND9.
+- How DNSMasq is lightweight and perfect for SOHO networks.
+- How BIND9 is geared more for larger enterprise networks, with more granular administration.
+- How to manually setup a forward and reverse lookup zone.
+- How to properly edit .conf files with intended specifications.
+- How to utilize new tools such as nmcli to discover what connection profile maps to what interface.
+- Using nmcli to discover, verify, and make modifications to existing connection profiles.
 
 ## 📁 More from Me
 
